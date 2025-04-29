@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Tue Apr 29 22:45:07 2025 as: /usr/lib/nmap/nmap --privileged -Pn -p- --open -oA loot/nmap_full_scan_KnowledgeCheck 10.129.206.170
+Host: 10.129.206.170 ()	Status: Up
+Host: 10.129.206.170 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///
+# Nmap done at Tue Apr 29 22:45:56 2025 -- 1 IP address (1 host up) scanned in 49.46 seconds
