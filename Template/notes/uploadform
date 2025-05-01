@@ -1,0 +1,7 @@
+
+		<form class="uploadform" action="upload.php?path=" method="post" enctype="multipart/form-data">
+			<p><input type="file" name="file[]" id="file" style="width:220px;" multiple /></p>
+			<input type="hidden" name="hash" id="hash" value="e554e86a29ef7d32cfe35c3521dd5029b405992d" />
+			<input type="submit" class="submit" name="submit" value="Upload" />
+		</form>
+	
